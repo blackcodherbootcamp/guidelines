@@ -15,7 +15,7 @@
 
 The bootcamp will run for 2 evenings a week between 6pm and 9pm
 Cohort A: Monday and Wednesday
-Cohort B: Tuesday and Thursday
+Cohort A: Tuesday and Thursday
 
 We will also have Empowerment Days which run every other Friday at 6.30pm, these sessions are designed to empower the women on the course and give them ideas about working in the tech industry.
 
@@ -23,9 +23,9 @@ We will share details of upcoming sessions on Slack.
 
 ## Course Material
 
-All the course material is available on GitHub in the following location: https://github.com/CodingBlackFemales/black-codher-slides/
+All the course material is available on course platform in Google Classrooms.
 
-In order to access the slides, you will need to be in the Black Codher Bootcamp 2020 > Mentors and Volunteers group on GitHub.
+In order to access the slides, you will be given access to the platform.
 
 Please endeavour to familiarize yourself with the course material ahead of time. This better helps you in supporting the learners and keeping them within a reasonable scope of the course.
 
