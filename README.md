@@ -1,4 +1,10 @@
 # Black Codher Guidelines
 
-* [Mentorship](supporters)
+* [Supporter Guide](supporters)
+* [Student Guidelines](students)
 * [Code of Conduct](codeofconduct)
+* [Slack Guidelines](slackguidelines)
+
+## Course Information
+
+* [Course Overview](courseoverview)
