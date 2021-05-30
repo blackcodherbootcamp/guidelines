@@ -1,4 +1,4 @@
-#Slack Workspace Guidelines
+# Slack Workspace Guidelines
 
 We will be using a slack channel to engage with other members of your cohort, mentors and course facilitators (teachers).  
 
