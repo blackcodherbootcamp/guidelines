@@ -34,16 +34,16 @@ Refer to the following guides for specific guidance
 
 Try to keep communication in Slack. Once you’re on Slack, please update your name to:
 - Full Name (Mentor or Volunteer)
- - e.g. Mary Martins (Volunteer)
- - e.g. Jack Jones (Mentor and Volunteer)
+  - e.g. Mary Martins (Volunteer)
+  - e.g. Jack Jones (Mentor and Volunteer)
 - Tell everyone about yourself in the #introduce-yourself channel
 
 ## Any questions?
-Feel free to contact the Black Codher Team on the Black Codher Slack or email us (mentor@blackcodher.com), and we’ll be happy to address any questions or concerns. The team are:
-- Oyin Adebayo
-- Laolu Dada
-- Charlene Hunter
 
+Feel free to contact the Black Codher Team on the Black Codher Slack or email us (mentor@blackcodher.com), and we’ll be happy to address any questions or concerns. The team are:
+- Oyin Adebayo (Managing Director)
+- Laolu Dada (Operations Director)
+- Charlene Hunter (Technical Director)
 
 ## Mentee / Mentor Matching
 
