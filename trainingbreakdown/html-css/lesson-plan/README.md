@@ -31,7 +31,10 @@ By the end of this unit, each student should produce the following a **portfolio
 
 ### Portfolio
 
-<!-- What should be included in their portfolios? -->
+This should include:
+* <h1> tag with you name
+* Link to your GitHub page
+
 
 ### Bookshop
 
@@ -41,17 +44,12 @@ By the end of this unit, each student should produce the following a **portfolio
 
 ## Session 1
 
-During this session students will be introduced to the basics of HTML and CSS
+During this session students will be introduced to the basics of HTML
 
 ### What is HTML
 
 * How it works
 * Browser compatibility
-
-### What is CSS
-
-* How it works
-* Commenting in HTML & CSS
 
 ### HTML 101
 
@@ -75,29 +73,11 @@ During this session students will be introduced to the basics of HTML and CSS
 * `<div>`
 * `<span>`
 
-### CSS 101
-
-* Different ways to add styling
-* Inline styling
-* External stylesheets
-* What does cascading mean in CSS?
-* CSS selectors
-  * IDs
-  * Class
-  * Type
-* Grouping selectors
-* Descendant combinators
-* Child combinators
-* Sibling combinators
-* Other selector types
-* Colour theory???
-
 ### Session 1 classroom tasks
 
 * Laying out HTML
 * HTML Quiz
 * Fleshing out HTML
-* External stylesheet
 
 ---
 
@@ -134,31 +114,70 @@ Begin portfolio website
 
 ## Session 3
 
-* Responsive web design
+During this session students will be introduced to the basics of CSS
+
+### What is CSS
+
+* How it works
+* Commenting in HTML & CSS
+
+### CSS 101
+
+* Different ways to add styling
+* Inline styling
+* External stylesheets
+* What does cascading mean in CSS?
+* CSS selectors
+  * IDs
+  * Class
+  * Type
+* Grouping selectors
+* Descendant combinators
+* Child combinators
+* Sibling combinators
+* Other selector types
 
 ### Session 3 classroom tasks
 
-* Responsive web design quiz
+* External stylesheet
+
+### Reading material
+
+ * Colour theory???
 
 ---
 
 ## Session 4
 
+During this session students will be introduced to the basics of CSS
+
+* Specificity
+* Responsive web design
+* Bootstrap
+* CSS Flexbox
+* CSS Grids
+
 ### Session 4 classroom tasks
+
+* Responsive web design quiz
 
 ### Session 4 homework
 
-* Continuing with portfolio website
+* Continuing with portfolio website and start their Bookshop
 
 ---
 
 ## Session 5
+
+Students will begin work on their Bookshop
 
 ### Session 5 classroom tasks
 
 ---
 
 ## Session 6
+
+Students will begin work on their Portfolio
 
 ### Session 6 classroom tasks
 
