@@ -1,11 +1,5 @@
 # Introduction to Software Development, Command Line and Git
 
-|||
-|-----|-----|
-|**Bootcamp Week:**|Week 1-2|
-|**Dates:**|Aug 2, 2021 → Sep 13, 2021|
-|**Total Sessions:**|4|
-
 ## Table of Contents
 - [Unit overview](#unit-overview)
 - [End of Unit 1 Assessment](#end-of-unit-1-assessment)
