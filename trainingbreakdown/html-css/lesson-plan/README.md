@@ -32,7 +32,7 @@ By the end of this unit, each student should produce the following a **portfolio
 ### Portfolio
 
 This should include:
-* <h1> tag with you name
+* ``<h1>`` tag with you name
 * Link to your GitHub page
 
 
