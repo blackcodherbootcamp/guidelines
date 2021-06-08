@@ -68,4 +68,3 @@
 * Command Line Cheat Sheet for simple tasks
 * Commit / Push / Pull some code / text file to GitHub repo
 * A repository on GitHub for building up portfolio hosted on GitHub Pages
-
