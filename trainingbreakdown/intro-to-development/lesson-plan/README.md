@@ -103,7 +103,7 @@ They will also have a introduction into source control and the differences betwe
 
 ### Git 101
 - *Git Configuring ``.gitconfig``, ``.gitignore``, *``.editorconfig``
-- Adding a file ``.git add`` and``.git commit``
+- Adding a file ``git add`` and ``git commit``
 - Branching ``git branch``
 - Checking Out ``git checkout``
 - Merging ``git merge``
