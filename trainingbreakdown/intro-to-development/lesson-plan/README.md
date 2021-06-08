@@ -28,19 +28,37 @@
 
 ## End of Unit 1 Assessment
 - 
+
+<!-- Where can I find the information for this? -->
+
 ## Week 1: Introduction to Software Development & Source Control
 
 ### Session 1:
 
+Students will understand the process of developing software and the different methodologies.
+
 ### What is Software Development
 - Software Development Lifecycle (SDLC)
-- SDLC Methodologies
-- *Agile Development
+  - 6 Stages in SDLC
+- Agile Development
+  - Agile Manifesto 
+    - 4 Values
+    - 12 Principles)
+  - Popular Agile Frameworks
+    - Scrum
+    - Kanban
+    - XP
 - *Design Thinking
 
 ## Session 1 Classroom Tasks
--
+- *Quiz on SDLC
+- *Quiz on Agile
+- *Role play: Planning Poker?
+
 ### Session 2:
+
+Students will have an understanding of the different types of developer and areas of development.
+They will also have a introduction into source control and the differences between centralised and distributed systems.
 
 ### Different Areas of Development
 - Different Types of Developer
@@ -52,9 +70,16 @@
 - Centralized vs Distributed Systems
 
 ## Session 2 Classroom Tasks
--
+- ?
+
 ## Session 2 Homework
--      
+
+- **Reading Material:**
+  - [Agile Manifesto](https://agilemanifesto.org/principles.html)
+  - [Software Development Life Cycle](https://www.freecodecamp.org/news/get-a-basic-understanding-of-the-life-cycles-of-software-development/)
+  - [Design Thinking](https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process)
+  - Version Control Systems?
+
 ## Week 2: Introduction to the Command Line & Git
 
 ## Session 3:
@@ -71,7 +96,8 @@
 - Difference between Git and GitHub
 
 ## Session 3 Classroom Tasks
--
+- Command line quiz on directory and file creation
+- Command line quiz on file creation/deletion
 
 ## Session 4:
 
@@ -89,8 +115,15 @@
 - ** Pull Requests
 
 ## Session 4 Classroom Tasks
-- 
-## Session 4 Homework
--
+- Quiz on ``git init`` and ``git add``
+- Quiz on git branching, checkout and merge
 
-_* Need to add or expand on_
+## Session 4 Homework
+- Create a repo
+  - Add a file
+  - Push changes
+- **Bonus:**
+  - Clone a repo
+  - Change a file and submit a merge request
+
+<!-- * Need to add or expand on -->
