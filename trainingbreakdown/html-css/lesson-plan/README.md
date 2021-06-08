@@ -174,6 +174,10 @@ During this session students will be introduced to more advanced CSS concepts
 ### Session 4 classroom tasks
 
 * Responsive web design quiz
+* Adding Bootstrap to your code
+* Advanced CSS with selectors, specificity and @rules
+* Using Flexbox
+* Using Grids
 
 ### Session 4 homework
 
