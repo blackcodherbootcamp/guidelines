@@ -143,13 +143,13 @@ During this session students will be introduced to the basics of CSS
 
 ### Reading material
 
- * Colour theory???
+ * [Colour theory: a beginner's guide for designers](https://webflow.com/blog/color-theory)
 
 ---
 
 ## Session 4
 
-During this session students will be introduced to the basics of CSS
+During this session students will be introduced to more advanced CSS concepts
 
 * Specificity
 * Responsive web design
