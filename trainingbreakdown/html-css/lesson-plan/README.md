@@ -112,7 +112,7 @@ By the end of this sessions student should have a further understanding of HTML
 
 * Enhance your text with formatting tags
 * Adding multimedia to HTML
-* Pushing work to github
+* Pushing work to GitHub
 
 ### Session 2 homework
 
