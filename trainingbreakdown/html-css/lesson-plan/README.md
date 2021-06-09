@@ -27,7 +27,7 @@
 
 ## End of unit assessment
 
-By the end of this unit, each student should produce the following a **portfolio** website and a **bookshop** using HTML and CSS. They will be assessed and count towards their progress during the course.
+By the end of this unit, each student should produce the following a **portfolio** website using HTML and CSS. They will be assessed and count towards their progress during the course.
 
 ### Portfolio
 
