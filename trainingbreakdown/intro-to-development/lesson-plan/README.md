@@ -70,15 +70,16 @@ They will also have a introduction into source control and the differences betwe
 - Centralized vs Distributed Systems
 
 ## Session 2 Classroom Tasks
-- ?
+- Quiz on version control
 
 ## Session 2 Homework
 
 - **Reading Material:**
   - [Agile Manifesto](https://agilemanifesto.org/principles.html)
   - [Software Development Life Cycle](https://www.freecodecamp.org/news/get-a-basic-understanding-of-the-life-cycles-of-software-development/)
+  - [Version Control Systems (3 minute Video)](https://www.youtube.com/watch?v=zbKdDsNNOhg)
   - [Design Thinking](https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process)
-  - Version Control Systems?
+  - [How Design Thinking transformed Airbnb from a failing startup](https://review.firstround.com/How-design-thinking-transformed-Airbnb-from-failing-startup-to-billion-dollar-business)
 
 ## Week 2: Introduction to the Command Line & Git
 
@@ -91,7 +92,7 @@ They will also have a introduction into source control and the differences betwe
 - Creating Files and Directories
 
 ### Introduction to Git
-- What is Git and Why use it?
+- What is Git and why use it?
 - What is GitHub
 - Difference between Git and GitHub
 
