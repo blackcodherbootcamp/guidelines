@@ -32,13 +32,21 @@ By the end of this unit, each student should produce the following a **portfolio
 ### Portfolio
 
 This should include:
-* ``<h1>`` tag with you name
-* Link to your GitHub page
+1. ``<h1>`` with their name
+1. ``<section>`` with a brief description
+1. ``<ul>`` list of projects
+1. Optional ``<a>`` links:
+    - Link to their GitHub page
+    - Link to LinkedIn
+    - Link to social media (e.g. Twitter, Instagram, YouTube?)
+1. Add a timeline of experience
+    - [Example of CSS Timelime](https://www.w3schools.com/howto/howto_css_timeline.asp)
+    - [More advanced Examples of CSS Timelines](https://www.sliderrevolution.com/resources/css-timeline/)
 
 
-### Bookshop
-
-<!-- What should be in the bookshop? -->
+## Assessment Due Date
+* **Sunday 5th September 2021 - WMCA**
+* **Monday 6th September 2021 - Authority**
 
 ---
 
@@ -108,9 +116,15 @@ By the end of this sessions student should have a further understanding of HTML
 
 ### Session 2 homework
 
-Begin portfolio website
+Begin portfolio website:
 
----
+1. Open/Create GitHub repo called `unit01-html-css`:
+1. Create a index.html page
+1. Include the following:
+    - `<h1>` with your name
+    - `<section>` with a brief description of yourself
+    - `<ìmg>` of yourself or an avatar
+    - `<ul>` list of projects you are going to create
 
 ## Session 3
 
@@ -167,22 +181,28 @@ During this session students will be introduced to more advanced CSS concepts
 
 ### Session 4 homework
 
-* Continuing with portfolio website and start their Bookshop
-
----
+* Add CSS to your portfolio
+* Make it responsive for desktop and mobile
 
 ## Session 5
 
-Students will begin work on their Bookshop
+Students cover more advanced CSS concepts and continue with their portfolio
 
 ### Session 5 classroom tasks
 
----
+ * CSS Animation
+ * Timeline example
 
 ## Session 6
 
-Students will begin work on their Portfolio
+Students will be completing work on their portfolio
 
 ### Session 6 classroom tasks
 
+* Continue work on your portfolio
+
 ### Session 6 homework
+
+* Finishing with portfolio website
+* Add a timeline
+
