@@ -51,7 +51,6 @@ Students will understand the process of developing software and the different me
 - *Design Thinking
 
 ## Session 1 Classroom Tasks
-- *Quiz on SDLC
 - *Quiz on Agile
 - *Role play: Planning Poker?
 
@@ -71,6 +70,7 @@ They will also have a introduction into source control and the differences betwe
 
 ## Session 2 Classroom Tasks
 - Quiz on version control
+- Group activity: Retrospective
 
 ## Session 2 Homework
 
@@ -103,25 +103,26 @@ They will also have a introduction into source control and the differences betwe
 ## Session 4:
 
 ### Git 101
-- *Git Configuring ``.gitconfig``, ``.gitignore``, *``.editorconfig``
-- Adding a file ``git add`` and ``git commit``
-- Branching ``git branch``
-- Checking Out ``git checkout``
-- Merging ``git merge``
+- *Git Configuring `.gitconfig`, `.gitignore`, *`.editorconfig`
+- Adding a file `git add` and `git commit`
+- Branching `git branch`
+- Checking Out `git checkout`
+- Merging `git merge`
 
 ### GitHub 101
 - Setting Up a Remote Repository
-- Pushing using ``git push``
-- Pulling using ``git pull``
+- Pushing using `git push`
+- Pulling using `git pull`
 - ** Pull Requests
 
 ## Session 4 Classroom Tasks
-- Quiz on ``git init`` and ``git add``
+- Quiz on `git init` and `git add`
 - Quiz on git branching, checkout and merge
 
 ## Session 4 Homework
-- Create a repo
-  - Add a file
+- Create a repo called `unit-01-repo`
+  - Add a file called `commands.txt`
+  - Add a README.md
   - Push changes
 - **Bonus:**
   - Clone a repo
