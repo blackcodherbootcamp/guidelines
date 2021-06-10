@@ -40,8 +40,8 @@ This should include:
     - Link to LinkedIn
     - Link to social media (e.g. Twitter, Instagram, YouTube?)
 1. Add a timeline of experience
-    - [Example of CSS Timelime](https://www.w3schools.com/howto/howto_css_timeline.asp)
-    - [More advanced Examples of CSS Timelines](https://www.sliderrevolution.com/resources/css-timeline/)
+    - [Example of CSS timeline](https://www.w3schools.com/howto/howto_css_timeline.asp)
+    - [More advanced examples of CSS timelines](https://www.sliderrevolution.com/resources/css-timeline/)
 
 
 ## Assessment Due Date
@@ -196,6 +196,8 @@ Students cover more advanced CSS concepts and continue with their portfolio
 ## Session 6
 
 Students will be completing work on their portfolio
+
+* Deploy portfolio on GitHub pages
 
 ### Session 6 classroom tasks
 
