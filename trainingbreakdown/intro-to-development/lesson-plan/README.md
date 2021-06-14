@@ -26,11 +26,6 @@
 - An introduction to the methods, techniques and processes of building software, web applications and sites.
 - Introduction to the command line, source control and Git.
 
-## End of Unit 1 Assessment
-- 
-
-<!-- Where can I find the information for this? -->
-
 ## Week 1: Introduction to Software Development & Source Control
 
 ### Session 1:
@@ -43,16 +38,17 @@ Students will understand the process of developing software and the different me
 - Agile Development
   - Agile Manifesto 
     - 4 Values
-    - 12 Principles)
+    - 12 Principles
   - Popular Agile Frameworks
     - Scrum
     - Kanban
     - XP
+  - Agile Ceremonies
 - *Design Thinking
 
 ## Session 1 Classroom Tasks
 - *Quiz on Agile
-- *Role play: Planning Poker?
+- *Role play: Planning Poker
 
 ### Session 2:
 
@@ -120,12 +116,12 @@ They will also have a introduction into source control and the differences betwe
 - Quiz on git branching, checkout and merge
 
 ## Session 4 Homework
-- Create a repo called `unit-01-repo`
+ - Create a repo called `unit-01-repo`
   - Add a file called `commands.txt`
   - Add a README.md
   - Push changes
 - **Bonus:**
   - Clone a repo
   - Change a file and submit a merge request
-
-<!-- * Need to add or expand on -->
+  
+  <!-- * Need to add or expand on -->
