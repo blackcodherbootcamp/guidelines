@@ -32,19 +32,20 @@ By the end of this unit, each student should produce the following a **portfolio
 ### Portfolio
 
 This should include:
+
 1. ``<h1>`` with their name
 1. ``<section>`` with a brief description
 1. ``<ul>`` list of projects
 1. Optional ``<a>`` links:
-    - Link to their GitHub page
-    - Link to LinkedIn
-    - Link to social media (e.g. Twitter, Instagram, YouTube?)
+    * Link to their GitHub page
+    * Link to LinkedIn
+    * Link to social media (e.g. Twitter, Instagram, YouTube?)
 1. Add a timeline of experience
-    - [Example of CSS timeline](https://www.w3schools.com/howto/howto_css_timeline.asp)
-    - [More advanced examples of CSS timelines](https://www.sliderrevolution.com/resources/css-timeline/)
-
+    * [Example of CSS timeline](https://www.w3schools.com/howto/howto_css_timeline.asp)
+    * [More advanced examples of CSS timelines](https://www.sliderrevolution.com/resources/css-timeline/)
 
 ## Assessment Due Date
+
 * **Sunday 5th September 2021 - WMCA**
 * **Monday 6th September 2021 - Authority**
 
@@ -118,13 +119,14 @@ By the end of this sessions student should have a further understanding of HTML
 
 Begin portfolio website:
 
-1. Open/Create GitHub repo called `unit01-html-css`:
+<!-- The repo should be their github account username because of github pages -->
+1. Open/Create GitHub repo called the github account username, e.g. `tanyapowell`
 1. Create a index.html page
 1. Include the following:
-    - `<h1>` with your name
-    - `<section>` with a brief description of yourself
-    - `<ìmg>` of yourself or an avatar
-    - `<ul>` list of projects you are going to create
+    * `<h1>` with your name
+    * `<section>` with a brief description of yourself
+    * `<ìmg>` of yourself or an avatar
+    * `<ul>` list of projects you are going to create
 
 ## Session 3
 
@@ -157,7 +159,7 @@ During this session students will be introduced to the basics of CSS
 
 ### Reading material
 
- * [Colour theory: a beginner's guide for designers](https://webflow.com/blog/color-theory)
+* [Colour theory: a beginner's guide for designers](https://webflow.com/blog/color-theory)
 
 ---
 
@@ -190,8 +192,8 @@ Students cover more advanced CSS concepts and continue with their portfolio
 
 ### Session 5 classroom tasks
 
- * CSS Animation
- * Timeline example
+* CSS Animation
+* Timeline example
 
 ## Session 6
 
@@ -207,4 +209,3 @@ Students will be completing work on their portfolio
 
 * Finishing with portfolio website
 * Add a timeline
-
