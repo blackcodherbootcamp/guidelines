@@ -75,11 +75,14 @@ They will also have a introduction into source control and the differences betwe
   - [Software Development Life Cycle](https://www.freecodecamp.org/news/get-a-basic-understanding-of-the-life-cycles-of-software-development/)
   - [Version Control Systems (3 minute Video)](https://www.youtube.com/watch?v=zbKdDsNNOhg)
   - [Design Thinking](https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process)
+  - [Requirement Traceability Matrix](https://www.guru99.com/traceability-matrix.html)
   - [How Design Thinking transformed Airbnb from a failing startup](https://review.firstround.com/How-design-thinking-transformed-Airbnb-from-failing-startup-to-billion-dollar-business)
 
 ## Week 2: Introduction to the Command Line & Git
 
 ## Session 3:
+
+By the end of this session students will have an understanding of the command line interface and the basic commands for file creation. You will have an introduction to Git and GitHub commands.
 
 ### Introduction to the Command Line
 - What is the Command Line?
@@ -98,6 +101,8 @@ They will also have a introduction into source control and the differences betwe
 
 ## Session 4:
 
+By the end of this session students will have an understanding of how to create a Git repository, the basic commands needed to push and pull your code to and from a remote repository.
+
 ### Git 101
 - *Git Configuring `.gitconfig`, `.gitignore`, *`.editorconfig`
 - Adding a file `git add` and `git commit`
@@ -110,18 +115,16 @@ They will also have a introduction into source control and the differences betwe
 - Pushing using `git push`
 - Pulling using `git pull`
 - ** Pull Requests
+- READMEs
+- Understanding Markdown
+- Profile README
 
 ## Session 4 Classroom Tasks
 - Quiz on `git init` and `git add`
 - Quiz on git branching, checkout and merge
+- Create a Profile README
 
 ## Session 4 Homework
- - Create a repo called `unit-01-repo`
-  - Add a file called `commands.txt`
-  - Add a README.md
-  - Push changes
-- **Bonus:**
-  - Clone a repo
-  - Change a file and submit a merge request
-  
-  <!-- * Need to add or expand on -->
+ - Run through the steps in the [unit01-homework-github-starter-course](<!-- Need URL -->)
+
+    <!-- * Need to add or expand on -->
