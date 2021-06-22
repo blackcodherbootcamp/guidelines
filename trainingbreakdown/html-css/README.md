@@ -6,34 +6,29 @@
   * HTML Structure
     * Head, Body and Footer
   * Browser Compatibility
-  *
   * HTML Tags
   * HTML Tag Content
-  * HTML Attributes (especially Ids and Classes)
-  *
+  * HTML Attributes
 * Introduction to CSS
-    *
-  * What is CSS used for? (go into more detail by staying elements in the next section)
-* HTML Elements and Styling - add all of these elements, and style them
+  * What is CSS used for?
+  * Inline vs stylesheets
+* HTML Elements and Styling
   * Header
   * Title
-  * Paragraph and Span
-    * Styling the content with Strong and Emphasis Elements
+  * Block vs inline
   * Lists - Ordered and Unordered
   * Anchor Tags
   * Buttons
-* Advanced Elements
+* Adding multimedia to websites
   * Images
   * Videos
-* Developer Tools
-* Adding a Video to your site
 * Styling to change fonts and location of elements
+* Animating CSS
 * Hosting on Netlify
 
 ## Course Outcome
 
-* Basic one page portfolio site with a link to shop website
-* Basic one page shop website in HTML and CSS with the following components uploaded to Github and GitHub pages
+* One page portfolio site
   * Various headers, paragraphs, text constructs
   * Images
   * Buttons
