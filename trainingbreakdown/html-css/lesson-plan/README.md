@@ -199,7 +199,7 @@ Students cover more advanced CSS concepts and continue with their portfolio
 
 Students will be completing work on their portfolio
 
-* Deploy portfolio on GitHub pages
+* Deploy portfolio on Netlify
 
 ### Session 6 classroom tasks
 

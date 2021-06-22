@@ -28,7 +28,7 @@
 * Developer Tools
 * Adding a Video to your site
 * Styling to change fonts and location of elements
-* Hosting on Github Pages
+* Hosting on Netlify
 
 ## Course Outcome
 
