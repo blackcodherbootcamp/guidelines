@@ -7,7 +7,7 @@
 | Week 1 | Introduction to Programming-Context Setting | 
 | Week 2| Command Line & Git|
 | Week 3 - 6 | HTML & CSS|
-| Week 7 | JavaScript|
+| Week 7 - 10| JavaScript|
 | Week 11 - 16  | React|
 | Week 17 - 20 | NodeJS|
 | Week 21 - 25 | Introduction to Databases & SQL & MongoDB|
