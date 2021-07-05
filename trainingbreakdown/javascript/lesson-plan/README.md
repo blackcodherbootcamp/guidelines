@@ -29,7 +29,7 @@
 
 ## End of unit assessment
 
-By the end of this unit, each student should have a solid understanding of JavaScript and worked in group to produced an **interactive timeline** using HTML/CSS and JavaScript. They will be assessed and count towards their progress during the course.
+By the end of this unit, each student should have a solid understanding of JavaScript. They will have worked in group to produce an **interactive timeline** using HTML/CSS and JavaScript.
 
 ### Group Project: Interactive Timeline
 
