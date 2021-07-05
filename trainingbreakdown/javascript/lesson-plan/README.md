@@ -41,12 +41,11 @@ The client would love to display a history of baking and cakes in an interactive
 
 ### Requirements 
 - Display a summary along with a relevant image in an interactive timeline detailing the history of baking and it's evolution.
-- TIP: You can use references such as [Wikipedia](https://en.wikipedia.org/wiki/Baking) to find information and images.
 
 Example: 
 1856 - William Henry Perkin discovered the first synthetic organic dye, called mauve, used to colour foods, drugs, and cosmetics.
 
-![Bread Baking - Anders Zorn](https://eaasset-bucket.s3.eu-west-2.amazonaws.com/mauve-cake.jpg "Bread baking")
+![Purple Ombre Layer Cake - bettycrocker.com](https://eaasset-bucket.s3.eu-west-2.amazonaws.com/mauve-cake.jpg "Purple Ombre Layer Cake - bettycrocker.com")
 
 ## Assessment Due Date
 * **??day ?? 2021 - Vaughan**
