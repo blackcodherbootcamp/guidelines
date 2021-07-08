@@ -100,8 +100,7 @@ Students will be introduced to the React framework.
 - Props (Properties) and States in React
 - React Hooks (`useState` and `useEffect`)
   - Other React Hooks
-- JSON file explained
-- Building your own JSX components
+- Linting
 
 ## Session 4 Classroom Tasks
 
@@ -114,6 +113,8 @@ Students will be introduced to the React framework.
 
 ## Session 5:
 
+- JSON file explained
+- Building your own JSX components
 - Nested components
 - Proptypes for better validation and type checking
 - Lifting State Up
@@ -149,7 +150,6 @@ Students will be introduced to the React framework.
 - RESTful APIs
 - Google Book API and how to connect to it
 - Fetch API
-- React Bootstrap
 
 ## Session 7 Classroom Tasks
 
@@ -159,7 +159,9 @@ Students will be introduced to the React framework.
 
 ## Session 8:
 
-- Review previous sessions
+- Styling React components
+- React Bootstrap
+- Pagination
 
 ## Session 8 Classroom Tasks
 
@@ -171,14 +173,24 @@ Students will be introduced to the React framework.
 
 ## Session 9:
 
+- React vs React Native an overview
+
 ## Session 9 Classroom Tasks
 
+- Quiz
+
 ## Session 10:
+
+- Anatomy of some React Game Apps
+- Continue work on React Bookcase App
 
 ## Session 10 Classroom Tasks
 
 ## Session 10 Homework
 
 ## Session 11:
+
+- Review previous sessions
+- Continue work on React Bookcase App
 
 ## Session 11 Classroom Tasks
