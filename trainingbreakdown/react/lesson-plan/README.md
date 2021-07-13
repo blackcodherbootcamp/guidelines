@@ -38,8 +38,6 @@
 
 - Book shop app 
 
-## Week 1: Introduction to Software Development & Source Control
-
 ## Session 1:
 
 Students will be introduced to the React framework.
@@ -61,7 +59,6 @@ Students will be introduced to the React framework.
 ## Session 2:
 
 - Package Managers (NPM, NPX, YARN)
-- Installing Node.js
 - The `create-react-app` command
 - React file and folder structure
 - Unit tests with Jest test runner 
