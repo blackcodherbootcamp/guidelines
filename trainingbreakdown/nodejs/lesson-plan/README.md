@@ -26,14 +26,10 @@ By the end of this unit, each student
 
 ## Assessment Due Date
 
-* **Sunday 5th September 2021 - WMCA**
-* **Monday 6th September 2021 - Authority**
-
 ---
 
 ## Session 1
 
-- RECAP: What is a web application?
 - Web architecture
 - What is Node and how does Node work?
 - Asynchronous vs synchronous programming explained
