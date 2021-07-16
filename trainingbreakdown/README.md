@@ -17,13 +17,13 @@ The course will cover the main content that has been described below, plus ‘Em
 
 ## Full Stack Development (26 sessions)
 
-* [Unit 1: Introduction to Full Stack](intro-to-development) (1 session) Week 11 
-    * Front End / Back End (Server & DB) - how does it all fit together
+* [Unit 1: Introduction to Full Stack](intro-to-development) (1 session) Week 11
+  * Front End / Back End (Server & DB) - how does it all fit together
 * [Unit 2: React](react) (11 sessions) Week 11 - 16
 * [Unit 3: NodeJS](nodejs) (6 sessions) Week 17 - 19
 * [Unit 4: Databases](databases) (8 sessions) Week 20 - 23
-    * Introduction to Databases
-    * MongoDB
+  * Introduction to Databases
+  * MongoDB
 
 ## Personal Project (5 weeks)
 
@@ -31,7 +31,7 @@ The course will cover the main content that has been described below, plus ‘Em
 
 ## Employability (Module 4) - 5 sessions (5 weeks) - concurrently with project
 
-* [Unit 1: Preparing for Technical Tests](technicaltests) (3 sessions)	Week 25 - 26
+* [Unit 1: Preparing for Technical Tests](technicaltests) (3 sessions) Week 25 - 26
 * [Unit 2: Interview Preparation](interviewprep)
 * [Unit 3: Job Readiness](jobreadiness) Week 26 - 30 - spread out
 
