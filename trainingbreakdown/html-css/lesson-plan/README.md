@@ -23,7 +23,7 @@
 
 ## Unit overview
 
-<!--What are the outcomes of this unit-->
+In this unit students will learn modern HTML and CSS.
 
 ## End of unit assessment
 
@@ -44,10 +44,12 @@ This should include:
     * [Example of CSS timeline](https://www.w3schools.com/howto/howto_css_timeline.asp)
     * [More advanced examples of CSS timelines](https://www.sliderrevolution.com/resources/css-timeline/)
 
-## Assessment Due Date
+## Assessment Due Dates
 
-* **Sunday 5th September 2021 - WMCA**
-* **Monday 6th September 2021 - Authority**
+Students will have time to work on this assessment during the last few sessions. The due date will be the day before they start the next unit (JavaScript).
+
+<!-- * **Sunday 5th September 2021 - WMCA**
+* **Monday 6th September 2021 - Authority** -->
 
 ---
 

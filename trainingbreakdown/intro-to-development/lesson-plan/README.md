@@ -1,8 +1,7 @@
 # Introduction to Software Development, Command Line and Git
 
-## Table of Contents
 - [Unit overview](#unit-overview)
-- [End of Unit 1 Assessment](#end-of-unit-1-assessment)
+- [End of Unit Assessment](#end-of-unit-assessment)
 - [Session 1](#session-1)
   - [What is Software Development](#what-is-software-development)
   - [Session 1 classroom tasks](#session-1-classroom-tasks)
@@ -26,49 +25,53 @@
 - An introduction to the methods, techniques and processes of building software, web applications and sites.
 - Introduction to the command line, source control and Git.
 
-## End of Unit 1 Assessment
-- 
+## End of Unit Assessment
 
 <!-- Where can I find the information for this? -->
 
 ## Week 1: Introduction to Software Development & Source Control
 
-### Session 1:
+### Session 1
 
 Students will understand the process of developing software and the different methodologies.
 
 ### What is Software Development
+
 - Software Development Lifecycle (SDLC)
   - 6 Stages in SDLC
 - Agile Development
-  - Agile Manifesto 
+  - Agile Manifesto
     - 4 Values
     - 12 Principles)
   - Popular Agile Frameworks
     - Scrum
     - Kanban
     - XP
-- *Design Thinking
+- \*Design Thinking
 
 ## Session 1 Classroom Tasks
-- *Quiz on Agile
-- *Role play: Planning Poker?
 
-### Session 2:
+- \*Quiz on Agile
+- \*Role play: Planning Poker
+
+### Session 2
 
 Students will have an understanding of the different types of developer and areas of development.
 They will also have a introduction into source control and the differences between centralised and distributed systems.
 
 ### Different Areas of Development
+
 - Different Types of Developer
 - What is Software Development
 
 ### Source Control
+
 - What is Source Control
 - Source Control Management Systems
 - Centralized vs Distributed Systems
 
 ## Session 2 Classroom Tasks
+
 - Quiz on version control
 - Group activity: Retrospective
 
@@ -83,43 +86,50 @@ They will also have a introduction into source control and the differences betwe
 
 ## Week 2: Introduction to the Command Line & Git
 
-## Session 3:
+## Session 3
 
 ### Introduction to the Command Line
+
 - What is the Command Line?
 - How does the Command Line Work?
 - Commenting on Code in Scripts
 - Creating Files and Directories
 
 ### Introduction to Git
+
 - What is Git and why use it?
 - What is GitHub
 - Difference between Git and GitHub
 
 ## Session 3 Classroom Tasks
+
 - Command line quiz on directory and file creation
 - Command line quiz on file creation/deletion
 
-## Session 4:
+## Session 4
 
 ### Git 101
-- *Git Configuring `.gitconfig`, `.gitignore`, *`.editorconfig`
+
+- _Git Configuring `.gitconfig`, `.gitignore`,_`.editorconfig`
 - Adding a file `git add` and `git commit`
 - Branching `git branch`
 - Checking Out `git checkout`
 - Merging `git merge`
 
 ### GitHub 101
+
 - Setting Up a Remote Repository
 - Pushing using `git push`
 - Pulling using `git pull`
-- ** Pull Requests
+- \*\* Pull Requests
 
 ## Session 4 Classroom Tasks
+
 - Quiz on `git init` and `git add`
 - Quiz on git branching, checkout and merge
 
 ## Session 4 Homework
+
 - Create a repo called `unit-01-repo`
   - Add a file called `commands.txt`
   - Add a README.md

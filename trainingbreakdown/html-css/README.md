@@ -1,6 +1,11 @@
 # HTML & CSS
 
-## Course Outline
+1. [Unit Outline](#unit-outline)
+1. [Unit Outcome](#unit-outcome)
+1. [Related Empowerment Day](#related-empowerment-day)
+1. [Unit Lesson Plans](#unit-lesson-plans)
+
+## Unit Outline
 
 * Introduction to HTML
   * HTML Structure
@@ -26,7 +31,7 @@
 * Animating CSS
 * Hosting on Netlify
 
-## Course Outcome
+## Unit Outcome
 
 * One page portfolio site
   * Various headers, paragraphs, text constructs
@@ -37,3 +42,7 @@
 ## Related Empowerment Day
 
 * Prototyping UX / Front End Design using Figma
+
+## Unit Lesson Plans
+
+For details of what is cover each session of in each lesson plan take a look [here](lessonplan)

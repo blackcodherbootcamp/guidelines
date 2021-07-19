@@ -1,14 +1,14 @@
 # Introduction to Full Stack Development
 
-## Course Outline
+## Unit Outline
 
-*   Introduction to Remainder of course
-*   Front End Development
-*   Back End Development
-    *   Server
-    *   Databases
-*   Diagram overview - database, server, front end
+* Introduction to Remainder of course
+* Front End Development
+* Back End Development
+  * Server
+  * Databases
+* Diagram overview - database, server, front end
 
-## Course Outcome
+## Unit Outcome
 
 Develop an understanding of how systems fit together
