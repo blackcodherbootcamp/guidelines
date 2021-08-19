@@ -91,4 +91,4 @@ Students will be given a thorough introduction to the command line/terminal and 
 
 ## Unit Lesson Plans
 
-For details of what is cover each session of in each lesson plan take a look [here](lessonplan)
+For details of what is cover each session of in each lesson plan take a look [here](lesson-plan)
