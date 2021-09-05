@@ -2,8 +2,8 @@
 
 1. [Unit Outline](#unit-outline)
 1. [Unit Outcome](#unit-outcome)
-<!-- 1. [Related Empowerment Day](#related-empowerment-day) -->
 1. [Unit Lesson Plans](#unit-lesson-plans)
+<!-- 1. [Related Empowerment Day](#related-empowerment-day) -->
 
 ## Unit Outline
 
