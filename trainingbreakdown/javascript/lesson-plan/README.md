@@ -97,9 +97,8 @@ TBD
 * Organise yourselves!
   * Get together with your group
   * Think about task required to complete the project
-  * Doc
   * Speak to your mentor
-  Create HTML/CSS timeline for project
+  * Create HTML/CSS timeline for project
 
 <!-- * ? -->
 ## Session 3
