@@ -2,8 +2,8 @@
 
 1. [Unit Outline](#unit-outline)
 1. [Unit Outcome](#unit-outcome)
+1. [Unit Lesson Plans](#unit-lesson-plans)
 <!-- 1. [Related Empowerment Day](#related-empowerment-day) -->
-<!-- 1. [Unit Lesson Plans](#unit-lesson-plans) -->
 
 ## Unit Outline
 
@@ -49,6 +49,4 @@
 - React app updated and pushed to GitHub
 - Understanding of different types of database structures
 
-<!-- ## Unit Lesson Plans
-
-For details of what is cover each session of in each lesson plan take a look [here](lesson-plan) -->
+For details of what is cover each session of in each lesson plan take a look [here](lesson-plan)

@@ -38,4 +38,4 @@ The learner will have a solid understanding of ReactJs and how to build a single
 
 ## Unit Lesson Plans
 
-For details of what is cover each session of in each lesson plan take a look [here](lesson-plan)
+For details of what is cover each session of in each lesson plan take a look [here](lessonplan)
