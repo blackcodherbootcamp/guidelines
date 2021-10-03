@@ -23,7 +23,6 @@
 * The DOM
 * ES6
 * Developer Tools for JS
-<!-- * Testing (Mocha/Jest?) -->
 
 ## Unit Outcome
 
@@ -37,7 +36,6 @@
   * Statements
 * Update previous website with actions behind their buttons, and upload to GitHub
 * A group project to create an animated interactive timeline
-<!-- * Use Postman to make a HTTP request using JSON -->
 
 ## Unit Lesson Plans
 
