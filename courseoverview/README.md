@@ -1,6 +1,8 @@
 # The Course
 
-## Course Dates
+To view the dates for the particular courses, please go to [Course Dates](../coursedates).
+
+## Course Overview
 
 | Start Date | Course Section | Course|
 |-------|-------------------|----------|
