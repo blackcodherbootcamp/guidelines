@@ -2,16 +2,16 @@
 
 ## Course Dates
 
-| Start Date | Course Section | 
-|-------|-------------------|
-| Week 1 | Introduction to Programming-Context Setting | 
-| Week 2| Command Line & Git|
-| Week 3 - 6 | HTML & CSS|
-| Week 7 - 10| JavaScript|
-| Week 11 - 16  | React|
-| Week 17 - 20 | NodeJS|
-| Week 21 - 25 | Introduction to Databases & SQL & MongoDB|
-| Week 26-30 | Project and Employability|
+| Start Date | Course Section | Course|
+|-------|-------------------|----------|
+| Week 1 | Introduction to Programming-Context Setting | Full Stack & Front End |
+| Week 2| Command Line & Git| Full Stack & Front End |
+| Week 3 - 6 | HTML & CSS| Full Stack & Front End |
+| Week 7 - 10| JavaScript| Full Stack & Front End |
+| Week 11 - 16  | React| Full Stack & Front End |
+| Week 17 - 20 | NodeJS| Full Stack Only |
+| Week 21 - 25 | Introduction to Databases & SQL & MongoDB|Full Stack Only |
+| Week 26-30 | Project and Employability|Full Stack Only |
 
 The bootcamp will run for 2 evenings a week between 6pm and 9pm
 Cohort A: Monday and Wednesday
