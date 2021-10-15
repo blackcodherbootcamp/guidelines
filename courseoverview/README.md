@@ -25,7 +25,7 @@ We will share details of upcoming sessions on Slack.
 
 ## Course Material
 
-All the course material is available on course platform in Google Classrooms.
+All the course material is available on course platform in our Black Codher Learning Platform.
 
 In order to access the slides, you will be given access to the platform.
 
