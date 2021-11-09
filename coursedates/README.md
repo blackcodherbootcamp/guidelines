@@ -4,18 +4,18 @@
 
 |Start Date     | Section                       | Sessions  |
 |---------------|-------------------------------|-----------|
-|Introduction to Web Development|-|-|
+|**Introduction to Web Development**|-|-|
 |3rd Aug 21|	Introduction to Development|2|
 |10th Aug 21|	Command Line & Git|2|
 |17th Aug 21|	HTML & CSS|6|
 |7th Sep 21|	JavaScript|9|
-|Full Stack Development|-|-|
+|**Full Stack Development**|-|-|
 |7th Oct 21|	React|11|
 |16th Nov 21|	NodeJS|6|
 |7th Dec 21|	Intro to Databases & MongoDB|8|
-|Python (Optional weekend module)|-|-|
+|**Python (Optional weekend module)**|-|-|
 |11th Dec 21|	Python|4|
-|Personal Project & Employability|-|-|
+|**Personal Project & Employability**|-|-|
 |18th Jan 22|	Personal Project|10|
 |18th Jan 22|	Employability|10|
 
