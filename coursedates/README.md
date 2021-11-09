@@ -1,6 +1,7 @@
 # Course Dates
 
 ### Full Stack Developer (Cohort Jackson)
+
 |Start Date     | Section                       | Sessions  |
 |---------------|-------------------------------|-----------|
 |Introduction to Web Development                | - | - |
@@ -19,6 +20,7 @@
 |18th Jan 22 	|	Employability               |    10     |
 
 ### Full Stack Developer (Cohort Vaughan)
+
 |Start Date     | Section                       | Sessions  |
 |---------------|-------------------------------|-----------|
 |**Introduction to Web Development**                      |||
