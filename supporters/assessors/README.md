@@ -25,7 +25,7 @@ The criteria for each of the assessments is listed in the READMEs:
 ### 4. [React Assessment Criteria](https://github.com/blackcodherbootcamp-assessments/unit04-assessment-react)
 ### 5. [Node Assessment Criteria](https://github.com/blackcodherbootcamp-assessments/unit05-assessment-node)
 
-Once assigned a student repository, please follow the specific scoring instructions on the grading forms. 
+Once assigned a student repository, please follow the specific scoring instructions. 
 
 For manual assessments we generally grade the assessments using the following scoring system:
 
@@ -36,6 +36,6 @@ For manual assessments we generally grade the assessments using the following sc
 - 4 - Very good, all criteria met. Follows best practice
 - 5 - Excellent, above and beyond criteria
 
-Please note that the scoring system may vary slightly depending on the assignment. Specific details are outlined on the scoring forms.
+Please note that the scoring system may vary slightly depending on the assignment.
 
 Each form will provide a comment area for you to capture any information or feedback you feel may be relevant e.g. any areas of improvement on the projects.
