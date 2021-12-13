@@ -1,6 +1,6 @@
 # Assessors
 
-Thank you so much for signing up to be a assessor for the Black Codher Bootcamp! Here’s a little guide for how to prepare and get the best out of this opportunity.
+Thank you so much for signing up to be an assessor for the Black Codher Bootcamp! Here’s a little guide for how to prepare and get the best out of this opportunity.
 
 ## Brief Breakdown
 
