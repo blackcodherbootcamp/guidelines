@@ -25,17 +25,15 @@ The criteria for each of the assessments is listed in the READMEs:
 ### 4. [React Assessment Criteria](https://github.com/blackcodherbootcamp-assessments/unit04-assessment-react)
 ### 5. [Node Assessment Criteria](https://github.com/blackcodherbootcamp-assessments/unit05-assessment-node)
 
+## Scoring Guide
+
 Once assigned a student repository, please follow the specific scoring instructions. 
 
-For manual assessments we generally grade the assessments using the following scoring system:
+| Category  | 0 | 1 | 2 | 3 | 4 | 5 |
+| --        |-- |-- |-- |--|--|--|
+| Completed on time | No repo  | Repo created but no code checked in | Assignment not completed by deadline. No agreed extension | Assignment not completed. Agreed extension | Assignment completed. Agreed extension | Assignment completed before deadline |
+| Code functionality | No code | Code added, but does not run/compile | Code loads and is deployed where applicable | Deployed code has good functionality and has met most of the criteria | Deployed code meets all of the required functionality | Deployed code is excellent and beyond required criteria|
+| Design | No Design | Code or content is structured correctly | Code is readable and...  | ? | ? | ? |
 
-- 0 - No code
-- 1 - Code exists but not completed
-- 2 - OK, but needs improvements
-- 3 - Good functional code, most of the criteria have been met
-- 4 - Very good, all criteria met. Follows best practice
-- 5 - Excellent, above and beyond criteria
-
-Please note that the scoring system may vary slightly depending on the assignment.
 
 Each form will provide a comment area for you to capture any information or feedback you feel may be relevant e.g. any areas of improvement on the projects.
