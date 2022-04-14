@@ -29,11 +29,13 @@ The criteria for each of the assessments is listed in the READMEs:
 
 Once assigned a student repository, please follow the specific scoring instructions. 
 
+Grade each repository based on their specific criteria listed above and the functionality design and 
+
 | Category  | 0 | 1 | 2 | 3 | 4 | 5 |
 | --        |-- |-- |-- |--|--|--|
-| Completed on time | No repo  | Repo created but no code checked in | Assignment not completed by deadline. No agreed extension | Assignment not completed. Agreed extension | Assignment completed. Agreed extension | Assignment completed before deadline |
-| Code functionality | No code | Code added, but does not run/compile | Code loads and is deployed where applicable | Deployed code has good functionality and has met most of the criteria | Deployed code meets all of the required functionality | Deployed code is excellent and beyond required criteria|
-| Design | No Design | Code or content is structured correctly | Code is readable and...  | ? | ? | ? |
+| Delivered on time | No repo  | Repo created but no code checked in | Assignment not completed by deadline. No agreed extension | Assignment not completed. Agreed extension | Assignment completed. Agreed extension | Assignment completed before deadline |
+| Code functionality | No code | Code added, but does not run/compile | Code loads and is deployed where applicable | Deployed code has good functionality and has met most of the criteria | Deployed code meets all of the required functionality | Deployed code is excellent and has implemented functionality beyond required criteria|
+| Design / Structure | No Design | Code or content is structured correctly | Code is readable and...  | ? | ? | ? |
 
 
 Each form will provide a comment area for you to capture any information or feedback you feel may be relevant e.g. any areas of improvement on the projects.
