@@ -48,7 +48,7 @@ Student will be given a mark of 0 - 5 for each category in the scoring guide tha
 For the React assignment a student score could be calculated in the following way:
 
 | Category  | 0 | 1 | 2 | 3 | 4 | 5 | Score |
-| --        |-- |-- |-- |--|--|--|--|
+| --        |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | __1. Delivered on time__ | | | |x|||3|
 | __2. Functionality__ | | | ||x||4|
 | __3. Design__ | | | |x|||3|
