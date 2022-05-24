@@ -43,7 +43,7 @@ Student will be given a mark of 0 - 5 for each category in the scoring guide tha
 | 1, 2, 3, 4, 5  | __Code Structure/  Efficiency__ | No code | An attempt has been made to write code and implement some of the basic functioanlity, although this may not be successful | Working code base submitted. Basic programming principles have been applied | Modular code has been written. Code is organised |  Code demonstrates a range of appropriate language constructs including good modular structures | A wide range of appropriate language constructs and best practice has been followed. Code is clean and easily understandable|
 | 3  |__Group Work__ | No code | Did not contribute| Contributed in a very minor way | Contributed to the team, committed once or referenced in a commit|Contributed well to the team, committed more than once or referenced in multiple commits | Contributed greatly to the team, often the main committer for the repo | 
 
-* Please note that some students may have private repos. You may need to request access to them to review/mark
+*Please note that some students may have private repos. You may need to request access to them to review/mark
 
 ## How to Grade and Assessment
 
