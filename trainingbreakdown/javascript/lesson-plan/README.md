@@ -25,23 +25,34 @@
 
 ## Unit overview
 
-<!--What are the outcomes of this unit-->
+In this unit students will learn the fundamental of programming using JavaScript.
 
 ## End of unit assessment
 
-By the end of this unit, each student should ?
+By the end of this unit, each student should have a solid understanding of JavaScript. They will have worked in group to produce an **animated interactive timeline** using HTML/CSS and JavaScript.
 
 ### Group Project: Interactive Timeline
 
 Business Name: Piglet Bakery
 
-Established on Feb 10th 1950. A family owned business who supply baked goods to the Royal family. They would like to display their most impactful bakes on their website in the form of an interactive timeline.
+A family owned business whose services and goods have been shipped worldwide. 
 
-They have produced bakes for all of the most monumental events in the Royal family. They would like you to select ten of the most significant celebratory dates in the history of the Royal family and display them in an interactive timeline.
+The client would love to display a history of baking and cakes in an interactive timeline on their website.
+
+### Requirements
+
+* Display a summary along with a relevant image in an interactive timeline detailing the history of baking and it's evolution.
+
+Example:
+> 1856 - William Henry Perkin discovered the first synthetic organic dye, called mauve, used to colour foods, drugs, and cosmetics.
+> ![Purple Ombre Layer Cake - bettycrocker.com](https://eaasset-bucket.s3.eu-west-2.amazonaws.com/mauve-cake.jpg "Purple Ombre Layer Cake - bettycrocker.com")
 
 ## Assessment Due Date
-* **??day ?? 2021 - WMCA**
-* **??day ?? 2021 - Authority**
+
+TBD
+
+<!-- * **??day ?? 2021 - Vaughan**
+* **??day ?? 2021 - Jackson** -->
 
 ---
 
@@ -65,7 +76,7 @@ They have produced bakes for all of the most monumental events in the Royal fami
 
 ### Session 1 classroom tasks
 
-* Quiz on ???
+<!-- * Quiz on ??? -->
 
 ---
 
@@ -79,18 +90,17 @@ They have produced bakes for all of the most monumental events in the Royal fami
 
 ### Session 2 classroom tasks
 
-* 
+<!-- *  -->
 
 ### Session 2 homework
 
 * Organise yourselves!
   * Get together with your group
   * Think about task required to complete the project
-  * Doc
   * Speak to your mentor
-  Create HTML/CSS timeline for project
+  * Create HTML/CSS timeline for project
 
-* ?
+<!-- * ? -->
 ## Session 3
 
 * Declare variables, and understand the different types of variables
@@ -98,7 +108,7 @@ They have produced bakes for all of the most monumental events in the Royal fami
 
 ### Session 3 classroom tasks
 
-* ?
+<!-- * ? -->
 
 ---
 
@@ -111,13 +121,14 @@ They have produced bakes for all of the most monumental events in the Royal fami
   
 ### Session 4 classroom tasks
 
-* ?
+<!-- * ? -->
 
 ### Session 4 homework
 
-* ?
+<!-- * ? -->
 
 ---
+
 ## Session 5
 
 * Arrays, Expressions, Operators
@@ -127,23 +138,23 @@ They have produced bakes for all of the most monumental events in the Royal fami
 
 ### Session 5 classroom tasks
 
-* ?
+<!-- * ? -->
 
 ---
 
 ## Session 6
 
 * ES6
-  * Deconstructing (move from React?)
+  * Deconstructing <!-- (move from React?) -->
 * Arrow Functions
 
 ### Session 6 classroom tasks
 
-* ?
+<!-- * ? -->
 
 ### Session 6 homework
 
-* ?
+<!-- * ? -->
 
 ---
 
@@ -153,7 +164,7 @@ They have produced bakes for all of the most monumental events in the Royal fami
 
 ### Session 7 classroom tasks
 
-* ?
+<!-- * ? -->
 
 ---
 
@@ -163,6 +174,6 @@ Work on group project
 
 ### Session 8 classroom tasks
 
-* ?
+<!-- * ? -->
 
 ### Session 8 homework

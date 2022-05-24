@@ -19,5 +19,3 @@ It might be beneficial to have a list or a mind map on the technical skills you 
 ## Mentoring Resources
 
 - [Finding the Right Mentor](https://www.youtube.com/watch?v=n3TwhoeZFz4)
-
-

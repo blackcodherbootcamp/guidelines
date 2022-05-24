@@ -8,4 +8,5 @@
 ## Course Information
 
 * [Course Overview](courseoverview)
+* [Course Dates](coursedates)
 * [Training Breakdown](trainingbreakdown)
